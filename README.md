@@ -38,18 +38,13 @@
   <summary>Projects</summary>
  
 <!--START_SECTION:activity-->
-<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="Passione" href="https://discord.gg/d8yS5eH">Passione</a> (<strong>Advanced Discord Bot)<br /><br /></strong>&bull;<strong>&nbsp;<img src="https://media.discordapp.net/attachments/741206496775503982/746818061209960599/pokemon_PNG14.png?width=532&amp;height=560" alt="poke" width="24" height="25" />&nbsp;</strong><a title="Poke" href="https://discord.gg/3nKgP3T">Pokecore</a> (<strong>2K+ Server , Under development!</strong>)</p>
+<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="ETERNAL NUKER" href="https://discord.gg/jRBRGptkvg">ETERNAL</a> (<strong>Advanced & Fast Discord Nuker)<br /><br /></strong>&bull;<strong>&nbsp;
 
 <!--END_SECTION:activity-->
 
 </details>
 
-<details>
-  <summary>📈 My Github Stats(I am new to Github) </summary>
 
-  <img align="left" alt="D4X's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=D4X&show_icons=true&hide_border=true" />
-
-</details>
 
 [discord]: https://discord.gg/jRBRGptkvg
 [python]: https://python.org
