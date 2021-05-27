@@ -38,7 +38,7 @@
   <summary>Projects</summary>
  
 <!--START_SECTION:activity-->
-<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="ETERNAL NUKER" href="https://discord.gg/jRBRGptkvg">ETERNAL</a> (<strong>Advanced & Fast Discord Nuker)<br /><br /></strong>&bull;<strong>&nbsp;
+<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="ETERNAL NUKER" href="https://github.com/daxontop/eternalnuker">ETERNAL</a> (<strong>Advanced & Fast Discord Nuker)<br /><br /></strong>&bull;<strong>&nbsp;
 
 <!--END_SECTION:activity-->
 
