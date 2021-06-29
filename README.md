@@ -3,11 +3,10 @@
 
 [![Github Follow](https://img.shields.io/github/followers/daxontop?style=social)](https://github.com/daxontop) 
 
-## I'm a Programmer and a Gamer
-
-- I’m the Founder of ETERNAL org
-- I'm currently learning python and golang
-- I make programs for new hacking learners and researchers
+## I'm a Programmer and a Cybersecurity Veteran Researcher
+- I develop programs for cybersecurity researchers and people new to the whole coding concept
+- I'm currently interested in Javascript and Python development
+- I've Been in this field for almost a year now 
 
 ### Connect with me:
 
