@@ -49,7 +49,7 @@
 [python]: https://python.org
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/LunarWaffle
-[instagram]: https://instagram.com/tanishk.ae
+[instagram]: https://instagram.com/
 [vsc]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5
 [js]: https://www.javascript.com/
