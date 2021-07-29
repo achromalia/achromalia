@@ -8,6 +8,11 @@
 - I'm currently interested in Javascript and Python development
 - I've Been doing this for 2 years by now
 
+
+    <img src="https://komarev.com/ghpvc/?username=daxontop" alt="Profile Views">
+  </p>
+</a>
+
 ### Connect with me:
 
 [<img align="left" alt="dax | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
