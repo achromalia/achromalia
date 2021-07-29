@@ -37,9 +37,6 @@
 <br />
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daxontop&theme=nord&margin-w=15&margin-h=15&column=7" />
-</p>
 <details>
   <summary>Some Projects of mine</summary>
  
