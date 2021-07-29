@@ -1,12 +1,12 @@
-### Hey I'm D4X 
+### Hey I'm dax
 
 
 [![Github Follow](https://img.shields.io/github/followers/daxontop?style=social)](https://github.com/daxontop) 
 
-## I'm a Programmer and a Cybersecurity Veteran Researcher
-- I develop programs for cybersecurity researchers and people new to the whole coding concept
+## I'm a Programmer 
+- I develop programs and websites
 - I'm currently interested in Javascript and Python development
-- I've Been in this field for almost a year now 
+- I've Been doing this for 2 years by now
 
 ### Connect with me:
 
@@ -32,9 +32,11 @@
 <br />
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daxontop&theme=nord&margin-w=15&margin-h=15&column=7" />
+</p>
 <details>
-  <summary>Projects</summary>
+  <summary>Some Projects of mine</summary>
  
 <!--START_SECTION:activity-->
 <p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="ETERNAL NUKER" href="https://github.com/daxontop/eternalnuker">ETERNAL</a> (<strong>Advanced & Fast Discord Nuker)<br /><br /></strong>&bull;<strong>&nbsp;
