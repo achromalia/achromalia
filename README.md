@@ -6,7 +6,7 @@
 ## I'm a Programmer 
 - I develop programs and websites
 - I'm currently interested in Javascript and Python development
-- I've Been doing this for 2 years by now
+- I have been developing programs since 2020
 
 
     <img src="https://komarev.com/ghpvc/?username=daxontop" alt="Profile Views">
