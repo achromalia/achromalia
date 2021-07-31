@@ -41,7 +41,7 @@
   <summary>Some Projects of mine</summary>
  
 <!--START_SECTION:activity-->
-<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="CLOCKY" href="https://github.com/daxontop/eternalnuker">ClockyL</a> (<strong>A webpage-based clock that displays the time and date.)<br /><br /></strong>&bull;<strong>&nbsp;
+<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="CLOCKY" href="https://github.com/daxontop/clocky">Clocky</a> (<strong>A webpage-based clock written using JavaScript and HTML.)<br /><br /></strong>&bull;<strong>&nbsp;
 
 <p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="CRACKME" href="https://github.com/daxontop/crackmev1">CrackMe</a> (<strong>A very basic CrackMe written in Python.)<br /><br /></strong>&bull;<strong>&nbsp;
 <!--END_SECTION:activity-->
