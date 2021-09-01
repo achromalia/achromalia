@@ -1,12 +1,12 @@
-### Hey I'm dax
+### Hey There I'm dax
 
 
 [![Github Follow](https://img.shields.io/github/followers/daxontop?style=social)](https://github.com/daxontop) 
 
-## I'm a Programmer 
-- I develop programs and websites
-- I'm currently interested in Javascript and Python development
-- I have been learning C++ recently
+## I Like To Program 
+- I develop websites and programs
+- I'm currently interested in TKINTER(PYTHON GUI LIBRARY) , Javascript and C++ Development
+- My main focus as of now is c++ Development
 
 
     <img src="https://komarev.com/ghpvc/?username=daxontop" alt="Profile Views">
