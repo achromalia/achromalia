@@ -3,7 +3,7 @@
 
 [![Github Follow](https://img.shields.io/github/followers/daxontop?style=social)](https://github.com/daxontop) 
 
-## I Like To Code
+## My Interests 
 - I develop websites and programs
 - I'm currently interested in TKINTER(PYTHON GUI LIBRARY) , Javascript and C++ Development
 - My main focus as of now is c++ Development
