@@ -5,8 +5,8 @@
 
 ## My Interests 
 - I develop websites and programs
-- I'm currently interested in TKINTER(PYTHON GUI LIBRARY) , Javascript and C++ Development
-- My main focus as of now is c++ Development
+- I'm currently interested in GoLang, TKINTER(PYTHON GUI LIBRARY) , Javascript and C++ Development
+- My main focus as of now is C++ and GO Development
 
 
     <img src="https://komarev.com/ghpvc/?username=daxontop" alt="Profile Views">
