@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=photoshop" />
-<img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express" />
-</p>[trm]
+<img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" />
+</p>
 
 <br />
 <br />
