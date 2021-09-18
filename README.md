@@ -1,12 +1,12 @@
-### Hey There I'm dax
+### Hey There 👋 , I'm wafflxs 
 
 
 [![Github Follow](https://img.shields.io/github/followers/daxontop?style=social)](https://github.com/daxontop) 
 
 ## My Interests 
-- I develop websites and programs
-- I'm currently interested in GoLang, TKINTER(PYTHON GUI LIBRARY) , Javascript and C++ Development
-- My main focus as of now is C++ and GO Development
+- I write custom programs and make websites
+- I'm currently interested in Flutter , Go and JavaScript Development
+- My main focus as of now is Flutter 
 
 
     <img src="https://komarev.com/ghpvc/?username=daxontop" alt="Profile Views">
