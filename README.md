@@ -1,11 +1,5 @@
 # Hey There! I'm Aquizz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Dtech Corporation  <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://damantha.ga-brightgreen) <br>
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
 # My Github Status📊
