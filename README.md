@@ -36,7 +36,7 @@
 
 
 
-# MY TOOLS AND LANG
+# Languages and Tools I am familiar with
 
 <p align ="left">
   <br />
