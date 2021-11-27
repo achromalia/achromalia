@@ -3,21 +3,21 @@
 
 
 # My Github Status📊
-![Metrics](https://metrics.lecoq.io/Damantha126?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/aquizz?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
 
 **** 
- <a href="https://github.com/Damantha126/handle-path-oz">
-    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
+ <a href="https://github.com/aquizz/handle-path-oz">
+    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=aquizz&show_icons=true&theme=midnight-purple" />
   </a>
 
 <br>
 <br>
 
-- ![Profile views](https://gpvc.arturio.dev/Damantha126)
-- [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/aquizz)
+- [![GitHub followers](https://img.shields.io/github/followers/aquizz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aquizz?tab=followers)
   
 
-<p align="center"> <a href="https://github.com/Damantha126"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true" alt="Damantha126" /></a> </p>
+<p align="center"> <a href="https://github.com/aquizz"><img src="https://github-profile-trophy.vercel.app/?username=aquizz&no-bg=true" alt="aquizz" /></a> </p>
 
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
