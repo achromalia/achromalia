@@ -27,16 +27,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquizz#version3"/>
   </a>
 </p>
+
+
 <a href="h
 
-  <a href="https://github.com/aquizz"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aquizz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/aquizz"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aquizz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 
 
 
-# MY TOOLS AND LANG
+# Languages & Tools I am familiar with
 
 <p align ="left">
   <br />
@@ -56,25 +58,9 @@
 
 
 
-# MOST USED LANGUAGES
+# Most Used Languages
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=aquizz&theme=dark&show_icons=true)
 
-# CONTACT ME ON
-                                                          
-### Bots Channel:
-<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
-<p align="left">
-
-### Bots Support Group:
-<a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-                                                              
-### Social media
-                                                              
-<a href="https://t.me/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/DamanthaJ" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
 
 <br>
                                                               
