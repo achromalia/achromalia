@@ -1,70 +1,94 @@
-### Hey There 👋 , I'm wafflxs 
+# Hey There! I'm Aquizz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+
+-  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+-  🔭 I’m currently working on : Dtech Corporation  <br>
+-  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+-  🤔 I’m looking for help : For  Me  <br>
+-  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://damantha.ga-brightgreen) <br>
+-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
-[![Github Follow](https://img.shields.io/github/followers/daxontop?style=social)](https://github.com/daxontop) 
+# My Github Status📊
+![Metrics](https://metrics.lecoq.io/Damantha126?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
 
-## My Interests 
-- I write custom programs and make websites
-- I'm currently interested in Flutter , Go and JavaScript Development
-- My main focus as of now is Flutter 
+**** 
+ <a href="https://github.com/Damantha126/handle-path-oz">
+    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
+  </a>
 
+<br>
+<br>
 
-    <img src="https://komarev.com/ghpvc/?username=daxontop" alt="Profile Views">
-  </p>
-</a>
+- ![Profile views](https://gpvc.arturio.dev/Damantha126)
+- [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
+  
 
-### Connect with me:
-
-[<img align="left" alt="dax | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="dax | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dax | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<p align="center"> <a href="https://github.com/Damantha126"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true" alt="Damantha126" /></a> </p>
 
 
-### Languages and Tools I'm familiar with:
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][gql]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][njs]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][deno]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][msql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mdb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][trm]
+<p align="center">
+  <a href="https://github.com/Damantha126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
+  </a>
+</p>
+<a href="h
 
-<br />
-<br />
-
----
-<details>
-  <summary>Some Projects of mine</summary>
- 
-<!--START_SECTION:activity-->
-<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="CLOCKY" href="https://github.com/daxontop/clocky">Clocky</a> <strong>A webpage-based clock written using JavaScript and HTML.<br /><br /></strong>&bull;<strong>&nbsp;
-
-<p>&bull;&nbsp;<img src="https://avatars2.githubusercontent.com/u/69858944?s=60&amp;v=4" alt="Github" width="24" height="24" />&nbsp;<a title="BANKMGM" href="https://github.com/wafflxs/bankmgm">BankMGM</a> <strong>A data entry software that can be used at instituions and is updated regularly.<br /><br /></strong>&bull;<strong>&nbsp;
-<!--END_SECTION:activity-->
-
-</details>
+  <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
-[discord]: https://discord.gg/jRBRGptkvg
-[python]: https://python.org
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/LunarWaffle
-[instagram]: https://instagram.com/
-[vsc]: https://code.visualstudio.com/
-[html5]: https://en.wikipedia.org/wiki/HTML5
-[js]: https://www.javascript.com/
-[njs]: https://nodejs.org
-[gql]: https://graphql.org/
-[sql]: https://en.wikipedia.org/wiki/SQL
-[msql]: https://www.mysql.com/
-[trm]: about:blank
+
+
+
+# MY TOOLS AND LANG
+
+<p align ="left">
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br>
+</p>  
+
+
+
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=dark&show_icons=true)
+
+# CONTACT ME ON
+                                                          
+### Bots Channel:
+<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<p align="left">
+
+### Bots Support Group:
+<a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+                                                              
+### Social media
+                                                              
+<a href="https://t.me/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/DamanthaJ" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+<br>
+                                                              
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Damantha126)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damantha-jasinghe-3b9376212/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Damantha_Jasinghe/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](DamanthaJa:damanthaja@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:damanthajasinghe@outlook.com)                                                              
+
+#### **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
