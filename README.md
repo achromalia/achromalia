@@ -23,20 +23,20 @@
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
 <p align="center">
-  <a href="https://github.com/Damantha126">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
+  <a href="https://github.com/aquizz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquizz#version3"/>
   </a>
 </p>
 <a href="h
 
-  <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/aquizz"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aquizz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 
 
 
-# Languages and Tools I am familiar with
+# MY TOOLS AND LANG
 
 <p align ="left">
   <br />
@@ -57,7 +57,7 @@
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=aquizz&theme=dark&show_icons=true)
 
 # CONTACT ME ON
                                                           
@@ -78,11 +78,11 @@
 
 <br>
                                                               
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Damantha126)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aquizz)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damantha-jasinghe-3b9376212/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Damantha_Jasinghe/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](DamanthaJa:damanthaja@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:damanthajasinghe@outlook.com)                                                              
 
 #### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{aquizz}/count.svg)
